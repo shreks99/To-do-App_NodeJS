@@ -64,7 +64,9 @@ li:hover{
 }
 
 h1{
-    background: url(/logo.png) no-repeat center;
-    margin-bottom: 0;
+    background: url(/assets/todo_logo.jpg) no-repeat center;
+    margin-bottom: 10px;
     text-indent: -10000px;
+    padding: 2px;
+    height: 100px;
 }
